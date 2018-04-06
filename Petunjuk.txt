@@ -1,0 +1,12 @@
+Akses Admin:
+username : admin
+pass : admin
+
+
+Akses Mahasiswa
+username:141402043
+pass: 141402043
+
+Akses Dosen
+username:9968278145
+pass:9968278145
